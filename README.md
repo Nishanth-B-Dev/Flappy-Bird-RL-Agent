@@ -65,3 +65,16 @@ python play.py
 
 This project demonstrates how reinforcement learning agents can learn complex behaviors from scratch using trial and error, without explicit programming of rules.
 
+## Training Results
+
+## Model trained for 200 episodes
+
+![Training 200](training_200.png)
+
+## Model trained for 600 episodes
+
+![Training 600](training_600.png)
+
+These graphs show how the agent improves over time, with higher rewards achieved as training progresses.
+
+
