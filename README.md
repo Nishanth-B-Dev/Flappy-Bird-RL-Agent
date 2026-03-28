@@ -69,7 +69,7 @@ This project demonstrates how reinforcement learning agents can learn complex be
 
 ## Model trained for 200 episodes
 
-![Training 200](training_200.png)
+![Training 200](Figure_1 ( 200 Episodes ).png)
 
 ## Model trained for 600 episodes
 
